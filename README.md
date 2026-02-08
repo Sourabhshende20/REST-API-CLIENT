@@ -72,3 +72,6 @@ Building microservices that consume external APIs as part of a larger distribute
 Creating dashboards or monitoring tools that pull data from multiple endpoints and aggregate them.
 
 Learning the fundamentals of REST communication, which is essential for back-end, full-stack, and Android development.
+
+# Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed525bde-983b-40f4-83e7-71788f80d409" />
